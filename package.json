@@ -1,6 +1,6 @@
 {
-  "name": "ipa-parser",
-  "version": "1.0.2",
+  "name": "@tmcw/ipa-parser",
+  "version": "1.0.2-alpha.0",
   "description": "A parser for International Phonetic Alphabet (IPA)",
   "main": "src/index.js",
   "scripts": {
